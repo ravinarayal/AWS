@@ -20,7 +20,7 @@ yum install git -y
 
 git clone https://github.com/naveen-uppala/frontend-new.git
 
-cd frontend-new
+cd frontend
 
 npm install -f
 
